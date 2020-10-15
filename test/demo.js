@@ -9,7 +9,7 @@ describe("Real Appeal Email Support Webform", function(){
         var title = "abd"
         if(title ==="abd")
         {
-            console.log("success") //sdfdsf
+            console.log("successful") //sdfdsf
         }        
         else{
             console.log("failure")
